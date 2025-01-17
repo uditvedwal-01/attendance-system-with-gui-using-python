@@ -1,0 +1,6 @@
+T01,pass1234,A,BTech,Mr.Aman Shukla
+T02,pass4567,B,BTech,Mr.Grah Sachdev
+T03,pass8901,A,BCA,Mr.Saurabh Negi
+T04,pass2345,B,BCA,Mr.Manvik Thapliyal
+T05,pass6789,A,MBA,Mrs.Diya Rana
+T06,pass0123,B,MBA,Mrs.Kaashi Sundriyal
